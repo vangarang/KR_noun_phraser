@@ -2,50 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f60266be-e19b-4908-b54e-f9651ba95951" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/KLT2000.lib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-cnn.s3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/kma" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/libindex-linux64.a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/KLT2000-TEST.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/KLT2000-TEST.lib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/KLT2000.ini.bak" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/ham-cnn.s3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/kma.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/ReChunker.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/KLT2000-utf8.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/KLT2000.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/bigram.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-asp.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-cnn.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-cnn1.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-rma.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-usr.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-usr1.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/hangul.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/hdic/stopword.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/module/mKLT.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/NounPhraser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/PatternFinder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/ReChunker.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/KLT.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/KLT2000-utf8.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/KLT2000.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/KLTUserDic_51000.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/KLTUserDic_origin.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/bigram.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/dicTest.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/ham-asp.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/ham-cnn.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/ham-rma.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/ham-usr.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/hangul.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/hdic/stopword.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/module/kma.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/windows/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/module/hdic/ham-cnn.s3" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-cnn.s3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/ReChunker.py" afterPath="$PROJECT_DIR$/linux/ReChunker.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/__init__.py" afterPath="$PROJECT_DIR$/linux/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/module/hdic/KLT2000-utf8.ini" afterPath="$PROJECT_DIR$/linux/module/hdic/KLT2000-utf8.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/module/hdic/KLT2000.ini" afterPath="$PROJECT_DIR$/linux/module/hdic/KLT2000.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/module/hdic/ham-asp.dic" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-asp.dic" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/module/hdic/ham-cnn.dic" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-cnn.dic" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/module/hdic/ham-cnn1.dic" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-cnn1.dic" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/module/hdic/ham-rma.dic" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-rma.dic" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/module/hdic/ham-usr.dic" afterPath="$PROJECT_DIR$/linux/module/hdic/ham-usr.dic" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/module/hdic/stopword.dic" afterPath="$PROJECT_DIR$/linux/module/hdic/stopword.dic" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linux/test.py" afterPath="$PROJECT_DIR$/linux/test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/linux/module/mKLT.py" afterPath="$PROJECT_DIR$/linux/module/KLT.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/linux/nPatternFinder.py" afterPath="$PROJECT_DIR$/linux/PatternFinder.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/linux/nounPhraser.py" afterPath="$PROJECT_DIR$/linux/NounPhraser.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,6 +32,7 @@
     <SUITE FILE_PATH="coverage/KR_noun_phraser$PatternFinder.coverage" NAME="PatternFinder Coverage Results" MODIFIED="1513907089347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/windows" />
     <SUITE FILE_PATH="coverage/KR_noun_phraser$nPatternFinder.coverage" NAME="nPatternFinder Coverage Results" MODIFIED="1513906828898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/windows" />
     <SUITE FILE_PATH="coverage/KR_noun_phraser$test.coverage" NAME="test Coverage Results" MODIFIED="1513909614946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/windows" />
+    <SUITE FILE_PATH="coverage/KR_noun_phraser$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1513921073032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linux" />
     <SUITE FILE_PATH="coverage/KR_noun_phraser$ReChunker.coverage" NAME="ReChunker Coverage Results" MODIFIED="1513907221758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/windows" />
   </component>
   <component name="FileEditorManager">
@@ -68,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/windows/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -124,11 +97,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="width" value="1278" />
+    <option name="height" value="984" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -159,7 +131,7 @@
             <path>
               <item name="KR_noun_phraser" type="b2602c69:ProjectViewProjectNode" />
               <item name="KR_noun_phraser" type="462c0819:PsiDirectoryNode" />
-              <item name="windows" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,8 +146,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\01_Doing\git\KR_noun_phraser\windows" />
       <recent name="D:\01_Doing\git\KR_noun_phraser\linux" />
+      <recent name="D:\01_Doing\git\KR_noun_phraser\windows" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -190,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.test (1)">
     <configuration name="NounPhraser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,20 +217,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="nPatternFinder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/windows" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linux" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="KR_noun_phraser" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\01_Doing\git\KR_noun_phraser\windows\PatternFinder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linux/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,19 +254,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.nPatternFinder" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ReChunker" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PatternFinder" />
-      <item index="3" class="java.lang.String" itemvalue="Python.NounPhraser" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ReChunker" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PatternFinder" />
+      <item index="2" class="java.lang.String" itemvalue="Python.NounPhraser" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.NounPhraser" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ReChunker" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PatternFinder" />
-        <item index="4" class="java.lang.String" itemvalue="Python.nPatternFinder" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.NounPhraser" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ReChunker" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PatternFinder" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +284,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -347,14 +319,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linux/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linux/nREChunker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -363,12 +327,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linux/nounPhraser.py">
+    <entry file="file://$PROJECT_DIR$/linux/NounPhraser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding>
-            <element signature="e#122#157#0" expanded="true" />
+            <element signature="e#122#157#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -386,7 +350,7 @@
         <state relative-caret-position="-1215">
           <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
-            <element signature="e#21#58#0" expanded="true" />
+            <element signature="e#21#58#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -425,10 +389,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/windows/test.py">
+    <entry file="file://$PROJECT_DIR$/linux/module/KLT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#58#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding />
         </state>
       </provider>

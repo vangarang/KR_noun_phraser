@@ -11,7 +11,6 @@ module_path = '/'.join(__file__.split('/')[:-1])
 c_tags = [(('와','j'),('와','wa')),(('과','j'),('과','gwa')), (('으로', 'j'),('으로','uro')),(('의', 'j'),('의','ui')), (('도', 'j'),('도','N')), (('이상','N'),('이상','deg')),
           (('이하', 'N'), ('이하', 'deg')), (('미만','N'),('미만','deg')), (('초과','N'),('초과','deg')), (('경우','N'),('경우','case')),
           (('는', 'j'), ('는', 'is')),(('은', 'j'), ('은', 'is')),(('이', 'j'), ('이', 'is')),(('가', 'j'), ('가', 'is')), ]
-print(module_path)
 os.chdir(module_path)
 
 def _parse(ele):
@@ -103,6 +102,7 @@ def pos(s, mop_score=False, remove_tag=[], c_tag=[], _opt = '-tip1+sw', _in = 's
         poses = [ pos for pos in poses if pos not in stop_words]
         return poses
     except Exception as e:
+        print(e)
         return []
 
 
