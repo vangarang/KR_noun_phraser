@@ -2,13 +2,9 @@
 ########################################
 # -- Loading Helper
 ########################################
-import sys
-module_path = '/'.join(__file__.split('/')[:-2])
-sys.path.append(module_path)
-
 import nltk
-from MOP_linux.module.mKLT import mKlt
-from MOP_linux.module.nPatternFinder import search
+import module.KLT as klt
+import PatternFinder as pf
 ########################################
 # -- RE-term Extraction
 ########################################
@@ -37,17 +33,17 @@ def suffix_regex(s, poses, strg):
     # return chunks
     if len(chunks):  # 후 처리 -> 리턴
         if r:
-            return search(s, [' '.join([w for w, t in chunk[l:-r]]) for chunk in chunks])
+            return pf.search(s, [' '.join([w for w, t in chunk[l:-r]]) for chunk in chunks])
         elif l:
-            return search(s, [' '.join([w for w, t in chunk[l:]]) for chunk in chunks])
+            return pf.search(s, [' '.join([w for w, t in chunk[l:]]) for chunk in chunks])
         else:
-            return search(s, [' '.join([w for w, t in chunk]) for chunk in chunks])
+            return pf.search(s, [' '.join([w for w, t in chunk]) for chunk in chunks])
     return None
 
 def chunk(sent):
     if not sent:
         return None
-    poses = mKlt.pos(sent)
+    poses = klt.pos(sent)
     # print(poses)
     # -- 예외 처리
     if not len(poses):

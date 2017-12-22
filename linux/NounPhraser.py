@@ -4,7 +4,7 @@
 ########################################
 from collections import defaultdict
 import ReChunker as newRe
-from ..MOP_linux.module.mKLT import nouns
+from module.KLT import nouns
 
 def select_max_leaf(elements):
     root = defaultdict(lambda: 0)
@@ -60,4 +60,27 @@ def extract(sent):
                 cand_nterms.append(n)
         else:
             cand_nterms.append(n)
-    return select_max_leaf(cand_nterms)
+    selected_leaves = select_max_leaf(cand_nterms)
+    return list(selected_leaves.values())
+
+def sentence_tokenizer(sents):
+    tokens = []
+    stt = 0
+    for i, c in enumerate(sents):
+        if i + 1 == len(sents):
+            tokens.append(sents[stt:].strip())
+            break
+        if c in ['.', "!", "?", ":", ";"] and sents[i + 1] == ' ':
+            tokens.append(sents[stt:i + 1].strip())
+            stt = i + 1
+    return tokens
+
+
+def phrase(sents):
+    res = []
+    tokenized_sents = sentence_tokenizer(sents)
+
+    for sent in tokenized_sents:
+        res = res + extract(sent)
+
+    return res
